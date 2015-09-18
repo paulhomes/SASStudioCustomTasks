@@ -17,7 +17,7 @@ in the *SAS Studio 3.4: Developer's Guide to Writing Custom Tasks* for more info
 ## License
 
 These custom tasks are licensed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-See [LICENSE](LICENSE) for more information.
+See [LICENSE](LICENSE.txt) for more information.
 
 ## Reference Documentation
 
